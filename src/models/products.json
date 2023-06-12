@@ -1,0 +1,13 @@
+[
+	{
+		"title": "papa",
+		"price": 6705,
+		"category": "Frutas",
+		"description": "Soy una fruta.",
+		"code": 1002,
+		"stock": 100,
+		"thumbnail": [],
+		"status": true,
+		"id": 1
+	}
+]
